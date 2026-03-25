@@ -1,0 +1,30 @@
+Veduci: Andrej Malek, andrej.malek@email.com
+Veduci: Katarina Liska, katarina.liska@email.com
+Veduci: Peter Sedlak, peter.sedlak@email.com
+Veduci: Martina Dvorakova, martina.dvorakova@email.com
+Veduci: Lukas Horvath, lukas.horvath@email.com
+
+Kruzok: Robotika, Pondelok, R101, Andrej Malek
+Kruzok: Elektronika, Utorok, E202, Andrej Malek
+Kruzok: Mikroprocesory, Streda, M303, Andrej Malek
+Kruzok: 3D Tlač, Stvrtok, T404, Andrej Malek
+
+Kruzok: Dramaticky krúžok, Pondelok, D101, Katarina Liska
+Kruzok: Hudobny krúžok, Utorok, H202, Katarina Liska
+Kruzok: Spolocenske hry, Streda, S303, Katarina Liska
+Kruzok: Klub knihy, Stvrtok, K404, Katarina Liska
+
+Kruzok: Fyzikalne experimenty, Pondelok, F101, Peter Sedlak
+Kruzok: Chemicke experimenty, Utorok, C202, Peter Sedlak
+Kruzok: Astronomia, Streda, A303, Peter Sedlak
+Kruzok: Matematicke olympiady, Stvrtok, M404, Peter Sedlak
+
+Kruzok: Plavanie, Pondelok, Bazen1, Martina Dvorakova
+Kruzok: Joga, Utorok, Telocvicna1, Martina Dvorakova
+Kruzok: Atletika, Streda, Stadion, Martina Dvorakova
+Kruzok: Turistika, Stvrtok, Les, Martina Dvorakova
+
+Kruzok: Fotografia, Pondelok, FotoStudio, Lukas Horvath
+Kruzok: VideoEdit, Utorok, VideoRoom, Lukas Horvath
+Kruzok: Graficky dizajn, Streda, Grafika, Lukas Horvath
+Kruzok: Web programovanie, Stvrtok, ITlab, Lukas Horvath

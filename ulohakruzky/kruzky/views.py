@@ -1,6 +1,6 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import Kruzok
-
+from .forms import KruzokForm
 def index(request):
     order = {
         "Pondelok": 1,
@@ -18,3 +18,14 @@ def index(request):
     )
 
     return render(request, 'kruzky/index.html', {'kruzky': kruzky})
+
+def pridaj_kruzok(request):
+    if request.method == "POST":
+        form = KruzokForm(request.POST)
+        if form.is_valid():
+            form.save()
+            #return redirect('index')  # presmerujeme späť na hlavný zoznam
+    else:
+        form = KruzokForm()
+    
+    return render(request, 'kruzky/pridaj_kruzok.html', {'form': form})
